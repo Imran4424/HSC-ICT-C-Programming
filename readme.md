@@ -33,3 +33,25 @@
 
 13. Write a program that read a number and divide by two using shift operator
 14. Write a program that read a number and multiply by two using shift operator
+
+# Conditional Logic - If Else
+
+1. Write a program that read an integer and prints odd or even
+2. Write a program to determine whether a number is divisible by 5 or not
+
+3. Write a program that read two numbers and display maximum
+4. Write a program that read two numbers and display minimum
+5. Write a program that read three numbers and display maximum
+6. Write a program that read three numbers and display minimum
+
+7. Write a program that read mark and display pass or fail
+8. Write a program that read mark and display result in grade
+9. Write a program that read any year and display its leap year or not
+
+10. Write a C program to check whether a character is uppercase or lowercase alphabet
+11. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should be checked
+12. Write a C program to input any character and check whether it is alphabet, digit or special character
+
+13. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation. 
+        
+        $$ax^2 + bx + c$$
