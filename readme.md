@@ -55,3 +55,45 @@
 13. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation. 
         
         $ax^2 + bx + c$
+
+
+# Conditional Logic - Switch
+
+1. Write a program that read a digit and diplay by spelling
+
+2. Write a program that read any number and display equivalent roman number
+
+3. Write a C program to print day of week name using switch case
+
+
+# Series
+
+1. Write a program to calculate the series: 1 + 2 + 3 + 4 + ... + n
+2. Write a program to calculate the series: 2 + 4 + 6 + 8 + ... + n
+3. Write a program to calculate the series: 1 + 3 + 5 + 7 + ... + n
+4. Write a program to calculate the series: 4 + 12 + 20 + 28 + ... + n
+5. Write a program to calculate the series: 2 + 5 + 8 + 11 + ... + n
+
+6. Write a program to calculate the series: 1.2 + 2.3 + 3.4 + ... + n(n+1)
+7. Write a program to calculate the series: 1.3 + 3.5 + 5.7 + ... + n(n+2)
+
+8. Write a program to calculate the series: 1^2 + 2^2 + 3^2 + ... + n^2
+9. Write a program to calculate the series: 1^2 + 3^2 + 5^2 + ... + n^2
+10. Write a program to calculate the series: 1^3 + 2^3 + 3^3 + ... + n^3
+
+# Loop
+
+1. Write a program that read two numbers and display GCD(greatest common divisor)
+2. Write a program that read two numbers and display LCM(least common multiple)
+
+3. Write a program that read a positive integer and display its factorial
+4. Write a program that displays all fibonacci numbers from 1 to n
+5. goto, break, continue
+
+# Pyramid
+
+# One Dimentional Array
+
+# Multi Dimentional Array
+
+# Function
