@@ -5,9 +5,15 @@ int main()
     int x = 5;
     int a = 2, b = 3;
 
+    /// Pre decrement
+    /// x = x - 1;
+    /// a = x + a;
     a = --x + a; /// 4 + 2 = 6
     printf("a - %d, x - %d\n", a, x); /// a - 6, x - 4
 
+    /// Post decrement
+    /// b = x + b;
+    /// x = x - 1;
     b = x-- + b; /// 4 + 3 = 7
     printf("b - %d, x - %d\n", b, x); /// b - 7, x - 3
 
